@@ -1,0 +1,14 @@
+<html>
+<body>
+
+ <h1 align="center">Welcome User!!!</h1>
+<form action="./number.jsp"><h2 align="center">click here to perform</h2>
+<br>
+ input type="text" name="number1">
+<br>
+<input type="text" name="number2">
+<br>
+<input type="submit" value="operate">
+</form>
+</body>
+</html>
